@@ -1,0 +1,9 @@
+Package: com.teggers.messagecount
+Name: MessageCount
+Depends: mobilesubstrate
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Show number of messages next to contact names in MobileSMS.
+Maintainer: Teggers
+Author: Teggers
+Section: Tweaks
